@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "primer-ej": {
+      "hosting": {
+        "app": [
+          "primer-ej"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "primer-ej"
+  }
+}

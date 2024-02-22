@@ -1,0 +1,7 @@
+{
+  "name": "FiresbassApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
